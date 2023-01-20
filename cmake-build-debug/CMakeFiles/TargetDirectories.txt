@@ -1,0 +1,3 @@
+/Users/GeronimoBasso/Desktop/Tercer_Semestre/PEL/preparacion-examen-final/preparacion/cmake-build-debug/CMakeFiles/preparacion.dir
+/Users/GeronimoBasso/Desktop/Tercer_Semestre/PEL/preparacion-examen-final/preparacion/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/GeronimoBasso/Desktop/Tercer_Semestre/PEL/preparacion-examen-final/preparacion/cmake-build-debug/CMakeFiles/rebuild_cache.dir
