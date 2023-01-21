@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ActividadGrupal4Ejercicio3",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ActividadGrupal4Ejercicio3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ActividadGrupal4Ejercicio3-Debug-ff50bcbf29eb427d3687.json",
+					"name" : "ActividadGrupal4Ejercicio3",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/victo/Desktop/proyectos/ActividadesGrupales/ActividadGrupal4PEL/ActividadGrupal4Ejercicio3/cmake-build-debug",
+		"source" : "C:/Users/victo/Desktop/proyectos/ActividadesGrupales/ActividadGrupal4PEL/ActividadGrupal4Ejercicio3"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

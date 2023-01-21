@@ -1,0 +1,3 @@
+C:/Users/sanch/CLionProjects/Ejercicio4_Bloque1/cmake-build-debug/CMakeFiles/Ejercicio4_Bloque1.dir
+C:/Users/sanch/CLionProjects/Ejercicio4_Bloque1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/sanch/CLionProjects/Ejercicio4_Bloque1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
